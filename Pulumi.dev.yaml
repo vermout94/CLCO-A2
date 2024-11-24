@@ -1,0 +1,5 @@
+config:
+  azure-native:location: "WestEurope"
+  storage:accountName: "sa"
+  storage:sku: "Standard_LRS"
+  storage:kind: "StorageV2"
